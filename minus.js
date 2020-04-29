@@ -2,4 +2,4 @@ function minus(a,b) {
     return a-b;
 }
 
-export {minus};
+module.exports = minus;
